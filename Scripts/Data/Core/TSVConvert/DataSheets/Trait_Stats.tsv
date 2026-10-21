@@ -1,0 +1,7 @@
+﻿1번 라인은 설명, 2번 라인은 헤더 ID/Name은 필수 사항 특성 신원 + 성장 정보 숫자 규칙 TR : Trait 1,2 : 예비(현재는 0으로 통일) 3 :인덱싱 번호 ActiveSkillId는 최대레벨 도달 시 해금되는 액티브 스킬.			
+ID	Name	MaxLevel	ActiveSkillId
+TR001	식탐	5	SK01
+TR002	위고비	5	SK02
+TR003	단백질바	5	SK03
+TR004	에너지드링크	5	SK04
+TR005	도박	5	SK05

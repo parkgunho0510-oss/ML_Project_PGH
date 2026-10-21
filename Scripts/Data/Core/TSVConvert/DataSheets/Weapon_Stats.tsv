@@ -1,0 +1,5 @@
+﻿1번 라인은 설명, 2번 라인은 헤더 ID/Name은 필수 사항 특성 신원 + 성장 정보 숫자 규칙 W : Weapon 1,2 : 예비(현재는 0으로 통일) 3 :인덱싱 번호 AttackInterval=공격간격(낮을수록 빠름), MaxHpBonus=장착 시 체력 보정, UnlockCost=제작 장작, IsDefault=기본지급(기본 도끼).							
+ID	Name	AttackDamage	AttackInterval	AttackRange	MaxHpBonus	UnlockCost	IsDefault
+W001	Axe	10	1	2	0	0	TRUE
+W002	HeavyAxe	20	2	2	-50	500	FALSE
+W003	LightAxe	6	0.5	1.5	0	500	FALSE

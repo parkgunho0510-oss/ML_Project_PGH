@@ -1,0 +1,6 @@
+1번 라인은 설명, 2번 라인은 헤더 ID/Name은 필수 사항 숫자 규칙 1,2 : 예비(현재는 0으로 통일) 3 :인덱싱 번호				
+ID	Name	MaxHp	WoodAmount	TreeType
+T001	NormalTree	150	2	NONE
+T002	FireTree	150	3	FIRE
+T003	WaterTree	150	2	WATER
+T004	WindTree	150	4	WIND

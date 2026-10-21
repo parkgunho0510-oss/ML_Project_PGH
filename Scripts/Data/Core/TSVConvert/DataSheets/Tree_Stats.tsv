@@ -1,0 +1,4 @@
+﻿1번 라인은 설명, 2번 라인은 헤더 ID/Name은 필수 사항 숫자 규칙 T : Tree 1,2 : 예비(현재는 0으로 통일) 3 :인덱싱 번호				
+ID	Name	MaxHp	WoodAmount	MoveSpeed
+T001	NormalTree	150	2	0
+T002	TreeSpirit	80	5	3
